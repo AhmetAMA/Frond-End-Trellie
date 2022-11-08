@@ -1,0 +1,29 @@
+{
+    "title": "Schoolwerk",
+    "activities": [
+        {
+            "description": "Alles is af. Design is goed. Logo is mooi. Kleuren zijn mooi, alleen de header moet beetje naar binnen. ",
+            "label": "BO",
+            "extraClass": "none",
+            "author": "AA"
+        },
+        {
+            "description": "Tulpreizen af. Darkmode af. Observer pattern af. Trellie af. ",
+            "label": "FRO",
+            "extraClass": "morgen",
+            "author": "AA"
+        },
+        {
+            "description": "Afgetekend ( DONE ) ",
+            "label": "PROG",
+            "extraClass": "weekend",
+            "author": "AA"
+        },
+        {
+            "description": "Nederlands af. Rekenen hoeft niks. Engels toetsen gemaakt, opdrachten bijna af. ",
+            "label": "AVO",
+            "extraClass": "deze_week",
+            "author": "AA"
+        }
+    ]
+}
